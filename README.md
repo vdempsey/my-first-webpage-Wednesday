@@ -1,6 +1,6 @@
 # _My First Webpage_
 
-#### _A super fancy website showcasing a number of useful facts about cool things!, 9/5/2017_
+#### _A super fancy website showcasing a number of useful facts about cool things! Published 9/5/2017_
 
 #### By _**Rane Fields and Elliot Burin**_
 
@@ -10,11 +10,11 @@ _This high tech application features a new technology known as Hyper Text Markup
 
 ## Setup/Installation Requirements
 
-* _1. Get web browser_
-* _2. Access web browser_
-* _3. Access web page with web browser_
+* _Get web browser_
+* _Access web browser_
+* _Access web page with web browser_
 
-_Good job._
+_Good job!_
 
 ## Known Bugs
 
